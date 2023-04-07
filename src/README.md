@@ -2,47 +2,27 @@
 home: true
 layout: BlogHome
 icon: home
-title: 博客主页
-heroImage: /logo.svg
-heroText: 你博客的名称
+title: 好好先生
+heroImage: /head.png
+bgImage: /fly.gif
+heroText: 一个软件开发工程师
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: 3年软件开发经验，熟练掌握Java、c#、python、vue等编程语言及框架
 projects:
   - icon: project
-    name: 项目名称
+    name: 云南大学百年校庆点亮地图展板
     desc: 项目详细描述
-    link: https://你的项目链接
+    link: https://www.avycloud.com/bnxq
 
   - icon: link
-    name: 链接名称
-    desc: 链接详细描述
-    link: https://链接地址
+    name: 云南大学百年校庆点亮地图H5(微信扫码打开)
+    desc: 
+    link: https://www.avycloud.com/bnxq/img/ewm01.a7533478.png
 
-  - icon: book
-    name: 书籍名称
+  - icon: link
+    name: 云南大学百年校庆奔向未来小程序
     desc: 书籍详细描述
-    link: https://你的书籍链接
+    link: /slides.html
 
-  - icon: article
-    name: 文章名称
-    desc: 文章详细描述
-    link: https://你的文章链接
-
-  - icon: friend
-    name: 伙伴名称
-    desc: 伙伴详细介绍
-    link: https://你的伙伴链接
-
-  - icon: /logo.svg
-    name: 自定义项目
-    desc: 自定义详细介绍
-    link: https://你的自定义链接
-
-footer: 自定义你的页脚文字
+footer: 既然我已经踏上这条道路，那么，任何东西都不应妨碍我沿着这条路走下去
 ---
-
-这是一个博客主页的案例。
-
-要使用此布局，你应该在页面前端设置 `layout: BlogHome` 和 `home: true`。
-
-相关配置文档请见 [博客主页](https://theme-hope.vuejs.press/zh/guide/blog/home/)。
