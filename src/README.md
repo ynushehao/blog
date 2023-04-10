@@ -36,12 +36,12 @@ projects:
 
   - icon: link
     name: 云南大学百年校庆点亮地图H5(微信扫码打开)
-    desc: 
+    desc: 项目详细描述
     link: https://www.avycloud.com/bnxq/img/ewm01.a7533478.png
 
   - icon: link
     name: 云南大学百年校庆奔向未来小程序
-    desc: 书籍详细描述
+    desc: 项目详细描述
     link: /intro.html
 
 footer: 既然我已经踏上这条道路，那么，任何东西都不应妨碍我沿着这条路走下去
