@@ -3,7 +3,7 @@ import theme from "./theme.js";
 
 export default defineUserConfig({
   base: "/blog/",
-
+  head: [['link', { rel: 'icon', href: 'head.png' }]],
   locales: {
     "/": {
       lang: "zh-CN",
