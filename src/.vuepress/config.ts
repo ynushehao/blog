@@ -7,8 +7,8 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "zh-CN",
-      title: "个人主页",
-      description: "好好先生的个人主页",
+      title: "个人博客",
+      description: "好好先生的个人博客",
     },
   },
 
